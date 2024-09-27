@@ -12,6 +12,7 @@ The N-Queens problem is a classic algorithmic challenge. This implementation:
 
 ### Features
 
+- Solves the N-Queens problem using recursion and backtracking.
 - Detects symmetries (rotations and reflections) and avoids duplicate solutions.
 - Color-coded output for queens and empty spaces in the terminal.
 - Supports custom board size by modifying the `N` constant in the code.
