@@ -6,13 +6,12 @@ This project implements a solution to the N-Queens problem (placing N queens on 
 
 The N-Queens problem is a classic algorithmic challenge. This implementation:
 
-- Solves the N-Queens problem using backtracking.
+- Solves the N-Queens problem using recursion and backtracking.
 - Detects and eliminates symmetrical solutions by generating all rotational and reflected versions of a board configuration.
 - Uses ANSI escape codes to print the board with color, making it visually distinct.
 
 ### Features
 
-- Solves the N-Queens problem using recursion and backtracking.
 - Detects symmetries (rotations and reflections) and avoids duplicate solutions.
 - Color-coded output for queens and empty spaces in the terminal.
 - Supports custom board size by modifying the `N` constant in the code.
