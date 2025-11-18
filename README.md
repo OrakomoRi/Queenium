@@ -46,7 +46,8 @@ You can adjust the size of the chessboard by modifying the `N` constant in the c
 
 Change the value of `N` to any desired board size.
 
-`Note!` Finding a solution with size 14+ using online compilers takes ages.
+> [!NOTE]  
+> Finding a solution with size 14+ using online compilers takes ages.
 
 ## Example Output
 
